@@ -1,17 +1,10 @@
 <h1 align="center">👋 Hi there! I'm Weronika Martinsen, a motivated frontend developer student. Currently diving deep into the world of frameworks like React & Bootstrap.
 </h1>
 
-
-
 <h3 align="left">💬 Let's Connect:</h3>
-<p align="left">GitHub: Your GitHub Profile </p>
-<p align="left">LinkedIn: Your LinkedIn Profile</p>
-<p align="left"></p>
-
-
-<h3 align="left">📫 Reach me at:</h3>
-<p align="left">Email: YourEmail@example.com </p>
-<p align="left">Portfolio: Your Portfolio Website</p>
+<p align="left">Email: wb3167@gmail.com </p>
+<p align="left">Github: <a href="[https://weronikamartinsen.netlify.app/](https://github.com/WeronikaMartinsen)" target="blank"></a></p>
+<p align="left">Portfolio: <a href="https://weronikamartinsen.netlify.app/" target="blank"></a></p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/weronika-martinsen-a655a1246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/weronika-martinsen-a655a1246/" height="30" width="40" /></a>
 </p>
