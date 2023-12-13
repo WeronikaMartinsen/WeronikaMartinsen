@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Weronika Martinsen, a motivated frontend developer student. Currently diving deep into the world of frameworks like React & Bootstrap.
+<h1 align="center">👋 Hi there! I'm Weronika Martinsen, a motivated frontend developer student. 
 </h1>
 
 
