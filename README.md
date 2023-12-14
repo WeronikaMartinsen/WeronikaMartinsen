@@ -1,26 +1,45 @@
-<h1 align="center">👋 Hi there! I'm Weronika Martinsen, a motivated frontend developer student. 
-</h1>
+# Hi there! 👋
 
+I'm Weronika Martinsen, a passionate frontend developer student with a knack for turning ideas into interactive and visually appealing web experiences.
 
-- 🌱 I’m currently learning **Java Script, Frameworks CSS & React.**
+## 🌱 Currently Growing
 
-- 👨‍💻 My portfolio: [https://weronikamartinsen.netlify.app/](https://weronikamartinsen.netlify.app/)
+- 🚀 Learning JavaScript, CSS Frameworks, and diving deep into React.
+- 🎨 Exploring the art of UI/UX design and turning creativity into code.
+  
+## 👨‍💻 Portfolio
 
-- 📫 Email: **wb3167@gmail.com**
+Check out my portfolio to see some of my latest projects: [Weronika's Portfolio](https://weronikamartinsen.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/weronika-martinsen-a655a1246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/weronika-martinsen-a655a1246/" height="30" width="40" /></a>
-</p>
+## 📫 Let's Connect!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- 📧 Email: wb3167@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/weronika-martinsen-a655a1246/)
 
-<h3 align="left">📚 Education:</h3>
-<p align="left">Currently pursuing frontend development at Noroff.</p>
+## Languages and Tools
 
-<h3 align="left">🎯 Interests:</h3>
-<p align="left">When I'm not coding, you can find me reading, training, cooking and out walking.</p>
+I work with a variety of technologies to bring ideas to life:
 
+- HTML5
+- CSS3 (including Bootstrap)
+- JavaScript
+- Git (because version control is a developer's best friend)
+- Figma (where design dreams take shape)
+- Photoshop (for that extra touch of creativity)
 
+## 📚 Education
 
+Currently on an exciting journey of frontend development at Noroff.
+
+## 🎯 Interests Beyond Code
+
+When I'm not immersed in the world of coding, here's where you'll find me:
+
+- 📖 **Reading:** I'm always exploring new worlds through books.
+- 🏋️‍♀️ **Training:** Keeping the body and mind in sync.
+- 👩‍🍳 **Cooking:** Experimenting with flavors and creating culinary delights.
+- 🚶‍♀️ **Out Walking:** Whether it's in nature or the city, there's always something new to discover.
+
+Feel free to explore my repositories, and don't hesitate to reach out—I love connecting with fellow developers, designers, or anyone passionate about tech!
+
+Thanks for stopping by! ✨
