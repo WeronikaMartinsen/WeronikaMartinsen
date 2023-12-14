@@ -9,7 +9,7 @@ I'm Weronika Martinsen, a passionate frontend developer student with a knack for
   
 ## 👨‍💻 Portfolio
 
-Check out my portfolio to see some of my latest projects: [Weronika's Portfolio](https://weronikamartinsen.netlify.app/)
+Check out my portfolio to see some of my latest projects: [Portfolio](https://weronikamartinsen.netlify.app/)
 
 ## 📫 Let's Connect!
 
@@ -21,9 +21,9 @@ Check out my portfolio to see some of my latest projects: [Weronika's Portfolio]
 I work with a variety of technologies to bring ideas to life:
 
 - HTML5
-- CSS3 (including Bootstrap)
+- CSS3 
 - JavaScript
-- Git (because version control is a developer's best friend)
+- Github
 - Figma (where design dreams take shape)
 - Photoshop (for that extra touch of creativity)
 
