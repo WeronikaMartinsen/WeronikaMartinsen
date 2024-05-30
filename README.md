@@ -21,7 +21,9 @@ Check out my portfolio to see some of my latest projects: [Portfolio](https://we
 I work with a variety of technologies to bring ideas to life:
 
 - HTML5
-- CSS3 
+- CSS3
+- Bootstrap
+- Tailwind
 - JavaScript
 - Github
 - Figma (where design dreams take shape)
