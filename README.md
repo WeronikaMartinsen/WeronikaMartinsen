@@ -4,7 +4,7 @@ I'm Weronika Martinsen, a passionate frontend developer student with a knack for
 
 ## 🌱 Currently Growing
 
-- 🚀 Learning JavaScript, CSS Frameworks, and diving deep into React.
+- 🚀 Learning React.
 - 🎨 Exploring the art of UI/UX design and turning creativity into code.
   
 ## 👨‍💻 Portfolio
@@ -21,11 +21,16 @@ Check out my portfolio to see some of my latest projects: [Portfolio](https://we
 I work with a variety of technologies to bring ideas to life:
 
 - HTML5
-- CSS3
+- CSS
 - Bootstrap
 - Tailwind
 - JavaScript
 - Github
+- React
+- C#
+- .Net
+- Blazor
+- Azure DevOps
 - Figma (where design dreams take shape)
 - Photoshop (for that extra touch of creativity)
 
