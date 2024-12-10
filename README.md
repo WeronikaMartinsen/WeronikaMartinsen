@@ -1,52 +1,49 @@
 # Hi there! 👋
 
-I'm Weronika Martinsen, a passionate frontend developer student with a knack for turning ideas into interactive and visually appealing web experiences.
+I'm **Weronika Martinsen**, a passionate frontend developer with a creative edge. I take pride in crafting engaging and intuitive web experiences that seamlessly blend functionality and aesthetics. Now, as I finish my studies and step into the professional world as a Developer Intern, I'm excited to continue growing and making an impact.
 
 ## 🌱 Currently Growing
 
-- 🚀 Learning React.
-- 🎨 Exploring the art of UI/UX design and turning creativity into code.
-  
+- 🚀 Mastering advanced concepts and best practices in **React** to build high-quality applications.
+- 🎨 Perfecting my UI/UX design skills to ensure each project not only looks good but provides an exceptional user experience.
+
 ## 👨‍💻 Portfolio
 
-Check out my portfolio to see some of my latest projects: [Portfolio](https://weronikamartinsen.netlify.app/)
+Check out my portfolio to explore some of my most recent projects and see how I bring ideas to life through code and design: [Portfolio](https://weronikamartinsen.netlify.app/)
 
 ## 📫 Let's Connect!
 
-- 📧 Email: wb3167@gmail.com
+- 📧 Email: [weronika.martinsen@gmail.com](mailto:weronika.martinsen@gmail.com)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/weronika-martinsen-a655a1246/)
 
-## Languages and Tools
+## 💻 Languages and Tools
 
-I work with a variety of technologies to bring ideas to life:
+I work with a variety of technologies to turn concepts into reality:
 
-- HTML5
-- CSS
-- Bootstrap
-- Tailwind
-- JavaScript
-- Github
-- React
-- C#
-- .Net
-- Blazor
-- Azure DevOps
-- Figma (where design dreams take shape)
-- Photoshop (for that extra touch of creativity)
+### Frontend Technologies
+- **HTML5**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Tailwind**, **Bootstrap**
+
+### Development Tools & Platforms
+- **GitHub**, **Azure DevOps**, **Figma**, **Photoshop**
+
+### Backend Technologies
+- **C#**, **.NET**, **Blazor**
 
 ## 📚 Education
 
-Currently on an exciting journey of frontend development at Noroff.
+I'm wrapping up my frontend development studies at **Noroff**, where I've honed both my technical and creative skills to build high-impact web solutions.
 
 ## 🎯 Interests Beyond Code
 
-When I'm not immersed in the world of coding, here's where you'll find me:
+When I'm not coding, you can find me:
 
-- 📖 **Reading:** I'm always exploring new worlds through books.
-- 🏋️‍♀️ **Training:** Keeping the body and mind in sync.
-- 👩‍🍳 **Cooking:** Experimenting with flavors and creating culinary delights.
-- 🚶‍♀️ **Out Walking:** Whether it's in nature or the city, there's always something new to discover.
+- 📖 **Reading**: Always on the lookout for books that spark inspiration and broaden my perspective.
+- 🏋️‍♀️ **Training**: Staying active to keep both body and mind sharp.
+- 👩‍🍳 **Cooking**: Experimenting with new flavors and crafting dishes that bring joy to the table.
+- 🚶‍♀️ **Walking**: Discovering the beauty of nature and the city, one step at a time.
 
-Feel free to explore my repositories, and don't hesitate to reach out—I love connecting with fellow developers, designers, or anyone passionate about tech!
+---
 
-Thanks for stopping by! ✨
+I love connecting with fellow developers, designers, and anyone passionate about technology. Feel free to explore my projects, dive into my code repositories, or reach out if you'd like to collaborate or share ideas!
+
+Thanks for visiting! ✨
